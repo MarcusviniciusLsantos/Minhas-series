@@ -32,7 +32,6 @@
       "genre": "Drama",
       "comments": "Galera fala bem"
     },
-   
     {
       "name": "QQQQQ",
       "status": "watched",
@@ -46,6 +45,20 @@
       "genre": "Ação",
       "comments": "Bom pra descontrair",
       "id": 7
+    },
+    {
+      "name": "TESTE",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "TESTEEE",
+      "id": 8
+    },
+    {
+      "name": "Scorpions",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "Série sobre genios",
+      "id": 9
     }
   ],
   "genres": [
